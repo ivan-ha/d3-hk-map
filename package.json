@@ -1,0 +1,23 @@
+{
+  "name": "d3-hk-map",
+  "version": "1.0.0",
+  "description": "A Hong Kong map using D3js",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-ha/d3-hk-map.git"
+  },
+  "author": "Ivan Ha <ivan@techisnothing.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivan-ha/d3-hk-map/issues"
+  },
+  "homepage": "https://github.com/ivan-ha/d3-hk-map#readme",
+  "devDependencies": {
+    "gh-pages": "^1.0.0"
+  }
+}
