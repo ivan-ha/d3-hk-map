@@ -12,7 +12,7 @@
     "url": "git+https://github.com/ivan-ha/d3-hk-map.git"
   },
   "author": "Ivan Ha <ivan@techisnothing.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ivan-ha/d3-hk-map/issues"
   },
